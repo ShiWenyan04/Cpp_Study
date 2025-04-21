@@ -1,0 +1,3 @@
+﻿  _52_totalNQueens.cpp
+D:\C++_Study\LeetCode_C++\_52_totalNQueens\_52_totalNQueens.cpp(12,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  _52_totalNQueens.vcxproj -> D:\C++_Study\LeetCode_C++\_52_totalNQueens\x64\Debug\_52_totalNQueens.exe
