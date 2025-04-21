@@ -1,0 +1,3 @@
+﻿  solveNQueens.cpp
+D:\C++_Study\LeetCode_C++\_51_solveNQueens\solveNQueens.cpp(19,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  _51_solveNQueens.vcxproj -> D:\C++_Study\LeetCode_C++\_51_solveNQueens\x64\Debug\_51_solveNQueens.exe

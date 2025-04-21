@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B_Study\\LeetCode_C\u002B\u002B\\_51_solveNQueens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF0C63B-F9DF-40A7-823C-D715D9F589AC}|_51_solveNQueens.vcxproj|D:\\C\u002B\u002B_Study\\LeetCode_C\u002B\u002B\\_51_solveNQueens\\solveNQueens.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EF0C63B-F9DF-40A7-823C-D715D9F589AC}|_51_solveNQueens.vcxproj|solutionrelative:solveNQueens.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "solveNQueens.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B_Study\\LeetCode_C\u002B\u002B\\_51_solveNQueens\\solveNQueens.cpp",
+              "RelativeDocumentMoniker": "solveNQueens.cpp",
+              "ToolTip": "D:\\C\u002B\u002B_Study\\LeetCode_C\u002B\u002B\\_51_solveNQueens\\solveNQueens.cpp",
+              "RelativeToolTip": "solveNQueens.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-21T02:21:46.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
