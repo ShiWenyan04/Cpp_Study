@@ -1,0 +1,5 @@
+﻿  _593_validSquare.cpp
+D:\C++_Study\LeetCode_C++\_593_validSquare\_593_validSquare\_593_validSquare.cpp(23,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C++_Study\LeetCode_C++\_593_validSquare\_593_validSquare\_593_validSquare.cpp(24,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C++_Study\LeetCode_C++\_593_validSquare\_593_validSquare\_593_validSquare.cpp(25,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  _593_validSquare.vcxproj -> D:\C++_Study\LeetCode_C++\_593_validSquare\x64\Debug\_593_validSquare.exe
