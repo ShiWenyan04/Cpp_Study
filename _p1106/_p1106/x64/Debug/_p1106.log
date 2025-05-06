@@ -1,0 +1,3 @@
+﻿  _p1106.cpp
+D:\C++_Study\LuoGu\_p1106\_p1106\_p1106.cpp(20,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  _p1106.vcxproj -> D:\C++_Study\LuoGu\_p1106\x64\Debug\_p1106.exe
