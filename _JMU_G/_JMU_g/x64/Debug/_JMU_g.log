@@ -1,0 +1,3 @@
+﻿  g.cpp
+D:\C++_Study\LuoGu\_JMU_g\_JMU_g\g.cpp(12,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  _JMU_g.vcxproj -> D:\C++_Study\LuoGu\_JMU_g\x64\Debug\_JMU_g.exe
