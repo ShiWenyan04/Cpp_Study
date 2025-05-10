@@ -1,0 +1,3 @@
+﻿  M.cpp
+D:\C++_Study\vjudge_XiAn\M\M\M.cpp(6,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  M.vcxproj -> D:\C++_Study\vjudge_XiAn\M\x64\Debug\M.exe
