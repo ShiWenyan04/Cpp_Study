@@ -1,0 +1,5 @@
+﻿  C.cpp
+D:\C++_Study\vjudge_ShanXi\C\C\C.cpp(8,12): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++_Study\vjudge_ShanXi\C\C\C.cpp(23,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\C++_Study\vjudge_ShanXi\C\C\C.cpp(26,12): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  C.vcxproj -> D:\C++_Study\vjudge_ShanXi\C\x64\Debug\C.exe
